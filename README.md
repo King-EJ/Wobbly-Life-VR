@@ -98,6 +98,7 @@ button does (the log lists it under "Game actions (Rewired) -> gamepad"). Change
   Y + left stick click (hold 1.7 s) ... VR settings menu
   
   In menus the right stick is the gamepad's right stick.
+  ![Controller layout](https://github.com/King-EJ/Wobbly-Life-VR/blob/main/WL.jpg?raw=true)
 
 Issues
 ------
