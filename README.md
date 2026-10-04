@@ -102,7 +102,9 @@ button does (the log lists it under "Game actions (Rewired) -> gamepad"). Change
 Issues
 ------
 When entering flying vehicles you might be turn wrong way
+
 when you start 1st time may want to re-center L3+R3
+
 sometimes you have to have a controller connected to start game
 
 CREDITS & LICENCES
