@@ -3,7 +3,7 @@ VR Mod for Wobbly Life
 
 WOBBLY LIFE - VR MOD  v0.1.8
 ==========================================================================
-(tested with Quest 3 VDXR)
+(tested with Quest 3 VDXR single player)
 
 INSTALL
 1. Copy everything in this zip into the game folder (next to Wobbly Life.exe).
